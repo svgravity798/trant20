@@ -1,0 +1,20 @@
+{
+  "name": "trant20",
+  "version": "1.0.0", 
+  "description": "Develop a logging utility that provides flexible logging configuration, support for different log levels, log formatting, and integration with logging services like Loggly or Papertrail.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
